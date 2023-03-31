@@ -1,4 +1,4 @@
-package com.ramonabreu.frete_viacep_wipro;
+package com.rafaelresck.frete_viacep_wipro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

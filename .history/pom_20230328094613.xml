@@ -8,7 +8,7 @@
 		<version>2.7.10</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ramonabreu</groupId>
+	<groupId>com.rafaelresck</groupId>
 	<artifactId>frete_viacep_wipro</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>frete_viacep_wipro</name>

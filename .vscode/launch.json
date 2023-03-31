@@ -9,6 +9,16 @@
             "projectName": "frete_viacep_wipro",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-FreteViacepWiproApplication<viacep>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.rafaelresck.frete_viacep_wipro.FreteViacepWiproApplication",
+            "projectName": "viacep",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }

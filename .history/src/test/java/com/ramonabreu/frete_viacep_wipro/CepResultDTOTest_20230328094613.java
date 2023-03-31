@@ -1,5 +1,5 @@
-package com.ramonabreu.frete_viacep_wipro;
-import com.ramonabreu.frete_viacep_wipro.consultacep.CepResultDTO;
+package com.rafaelresck.frete_viacep_wipro;
+import com.rafaelresck.frete_viacep_wipro.consultacep.CepResultDTO;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

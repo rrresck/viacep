@@ -1,4 +1,4 @@
-package com.ramonabreu.frete_viacep_wipro;
+package com.rafaelresck.frete_viacep_wipro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

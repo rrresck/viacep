@@ -1,4 +1,4 @@
-package com.ramonabreu.frete_viacep_wipro;
+package com.rafaelresck.frete_viacep_wipro;
 
 
 import org.springframework.context.annotation.Bean;

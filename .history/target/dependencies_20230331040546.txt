@@ -1,11 +1,11 @@
-digraph "com.ramonabreu:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" { 
-	"com.ramonabreu:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.7.10:compile" ; 
-	"com.ramonabreu:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "org.springframework.boot:spring-boot-starter-web:jar:2.7.10:compile" ; 
-	"com.ramonabreu:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "org.springframework.boot:spring-boot-devtools:jar:2.7.10:runtime (optional) " ; 
-	"com.ramonabreu:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "org.springframework.boot:spring-boot-starter-test:jar:2.7.10:test" ; 
-	"com.ramonabreu:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "com.fasterxml.jackson.core:jackson-databind:jar:2.13.5:compile" ; 
-	"com.ramonabreu:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "io.springfox:springfox-boot-starter:jar:3.0.0:compile" ; 
-	"com.ramonabreu:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "io.springfox:springfox-swagger-ui:jar:3.0.0:compile" ; 
+digraph "com.rafaelresck:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" { 
+	"com.rafaelresck:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.7.10:compile" ; 
+	"com.rafaelresck:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "org.springframework.boot:spring-boot-starter-web:jar:2.7.10:compile" ; 
+	"com.rafaelresck:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "org.springframework.boot:spring-boot-devtools:jar:2.7.10:runtime (optional) " ; 
+	"com.rafaelresck:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "org.springframework.boot:spring-boot-starter-test:jar:2.7.10:test" ; 
+	"com.rafaelresck:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "com.fasterxml.jackson.core:jackson-databind:jar:2.13.5:compile" ; 
+	"com.rafaelresck:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "io.springfox:springfox-boot-starter:jar:3.0.0:compile" ; 
+	"com.rafaelresck:frete_viacep_wipro:jar:0.0.1-SNAPSHOT" -> "io.springfox:springfox-swagger-ui:jar:3.0.0:compile" ; 
 	"org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.7.10:compile" -> "org.springframework.boot:spring-boot-starter:jar:2.7.10:compile" ; 
 	"org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.7.10:compile" -> "org.thymeleaf:thymeleaf-spring5:jar:3.0.15.RELEASE:compile" ; 
 	"org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.7.10:compile" -> "org.thymeleaf.extras:thymeleaf-extras-java8time:jar:3.0.4.RELEASE:compile" ; 
